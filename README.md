@@ -2,15 +2,15 @@ Hi 👋
 My name is Diego
 ======================
 
-Front-End developer
+Full-Stack developer
 -------------------
 
 I have been working and learning for more than 3 years with different programming languages and technologies currently used in the industry. At the same time, I have developed soft skills such as respect, teamwork, empathy, tolerance, commitment and punctuality.
 
 * 🌍  I'm based in Costa Rica
 * ✉️  You can contact me at [diegoalonsonm@gmail.com](mailto:diegoalonsonm@gmail.com)
-* 🧠  I'm learning front-end and full-stack technologies like React, Angular, C#, .NET and planning to go into AWS and Python.
-
+* 🧠  I'm currently learning new technologies like React, Angular, C# and Java in order to fulfill my Full-Satck path
+  
 ### Skills
 
 
