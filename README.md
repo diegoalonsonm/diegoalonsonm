@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Naranjo</h1>
-<h3 align="center">I'm a Full-Stack developerfrom Costa Rica that has been constantly learning for the past 3 years. I like to stay up-to-date with the most modern technologies in order to be competent in today's workflow.</h3>
+<h3 align="center">I'm a Full-Stack developer from Costa Rica that has been constantly learning for the past 3 years. I like to stay up-to-date with the most modern technologies in order to be competent in today's workflow.</h3>
 
 - 🌱 I’m currently learning **Next JS, Node JS, Java, AWS and more**
 
