@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Naranjo</h1>
 <h3 align="center">I'm a Full-Stack developer from Costa Rica that has been constantly learning for the past 3 years. I like to stay up-to-date with the most modern technologies in order to be competent in today's workflow.</h3>
 
-- 🌱 I’m currently learning **Next JS, Node JS, Java, AWS and more**
+- 🌱 I’m currently learning **Java, Flutter, AWS and more technologies to be in order with the industry**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-diego-naranjo.vercel.app/](https://portfolio-diego-naranjo.vercel.app/)
 
