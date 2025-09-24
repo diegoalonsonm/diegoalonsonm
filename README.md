@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Naranjo</h1>
-<h3 align="center">A passionate Full-Stack Developer and AI and Cloud enthusiastic from Costa Rica</h3>
+<h3 align="center">A passionate Full-Stack Developer, AI and Cloud enthusiastic from Costa Rica</h3>
 
 - 🔭 I’m currently working on [TicoBites](https://github.com/diegoalonsonm/ticobites-server)
 
